@@ -1,4 +1,4 @@
-🧠 Superstore SQL Project Series (Advanced SQL Practice)
+🧠 Superstore SQL Project (Advanced SQL Practice)
 
 📌 Project Overview
 
@@ -46,7 +46,10 @@ Shows customers who bought more units than the average quantity purchased across
 4. Customers With Order Count Above Average
 Highlights customers whose order count exceeds the average order count.
 
-💡 Note
+## 📸 Screenshots
 
-This analysis is part of a larger SQL mini-project series.
-The queries are designed to be production-ready and reflect realistic business scenarios.
+| Query Output | Screenshot |
+|--------------|------------|
+| Above Average Quantity Customers | ![top quantity](screenshots/above_avg_quantity_customers.png) |
+| High Value Orders | ![highvalue](screenshots/high_value_orders.png) |
+| Top Product by Category | ![top product](screenshots/top_product_by_category.png) |
