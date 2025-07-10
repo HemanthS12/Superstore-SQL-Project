@@ -1,4 +1,4 @@
-# Project Title - Superstore SQL Project (Advanced SQL Practice)
+# Superstore Data Analysis SQL Project
 
 ## 📌 Project Overview
 
