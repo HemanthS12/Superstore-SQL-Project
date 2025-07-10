@@ -1,17 +1,52 @@
-🧠 Subquery-Based SQL Project: Superstore Sales Analysis
+🧠 Superstore SQL Project Series (Advanced SQL Practice)
 
-📌 Overview
+📌 Project Overview
 
-This project showcases advanced SQL querying using subqueries to derive insights from a realistic retail dataset (10,000+ rows). The dataset includes customer orders, product categories, regions, and transactional data.
+This GitHub repository contains a series of advanced SQL mini-projects based on the Superstore Orders dataset (~10,000+ records), designed to simulate real-world business questions and enhance SQL fluency through practical scenarios.
 
-🗃️ Dataset
+🎯 Goals
 
-Source: Kaggle Superstore DatasetFile Used: Superstore_orders.csv
+1. Practice intermediate-to-advanced SQL
+2. Solve subquery, join, and aggregation-based business problems
+3. Prepare for real-world interviews and data analyst tasks
+4. Build portfolio-ready SQL scripts
 
-Fields include:
-Order ID
-Order Date
-Customer ID & Name
-Segment, Region
-Product ID, Product Name, Category, Sub-Category
-Sales, Quantity
+📁 Project Files
+
+📦 Superstore-SQL-Projects/
+1. customer_analysis.sql        # Analysis of customer behaviors
+2. product_analysis.sql         # Best-selling, underperforming products, segmentation
+3. order_analysis.sql           # Order value, trends, high-value orders
+4. README.md                    # This file
+
+🧰 SQL Concepts Used
+
+Aggregate functions: SUM, AVG, COUNT
+Subqueries
+GROUP BY and HAVING filters
+Use of DISTINCT, ordering, and logical conditions
+
+📊 Project Highlights
+
+1. customer_analysis.sql
+2. product_analysis.sql
+3. order_analysis.sql
+
+📊 Query List
+
+1. Top 5 Customers by Total Sales
+Identify the most valuable customers based on cumulative sales.
+
+2. Customers Who Placed Only One Order
+List customers who only made a single distinct order.
+
+3. Customers Who Purchased More Units Than the Average
+Shows customers who bought more units than the average quantity purchased across all customers.
+
+4. Customers With Order Count Above Average
+Highlights customers whose order count exceeds the average order count.
+
+💡 Note
+
+This analysis is part of a larger SQL mini-project series.
+The queries are designed to be production-ready and reflect realistic business scenarios.
