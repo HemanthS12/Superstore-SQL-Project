@@ -14,10 +14,11 @@ This GitHub repository contains a series of advanced SQL mini-projects based on 
 📁 Project Files
 
 📦 Superstore-SQL-Projects/
-1. customer_analysis.sql        # Analysis of customer behaviors
-2. product_analysis.sql         # Best-selling, underperforming products, segmentation
-3. order_analysis.sql           # Order value, trends, high-value orders
-4. README.md                    # This file
+1. customer_analysis.sql        
+2. product_analysis.sql         
+3. order_analysis.sql           
+4. README.md  
+5. Screenshots                  
 
 🧰 SQL Concepts Used
 
@@ -50,6 +51,6 @@ Highlights customers whose order count exceeds the average order count.
 
 | Query Output | Screenshot |
 |--------------|------------|
-| Above Average Quantity Customers | ![top quantity](screenshots/above_avg_quantity_customers.png) |
-| High Value Orders | ![highvalue](screenshots/high_value_orders.png) |
-| Top Product by Category | ![top product](screenshots/top_product_by_category.png) |
+| Above Average Quantity Customers | ![top quantity](Screenshots/above_avg_quantity_customers.png) |
+| High Value Orders | ![highvalue](Screenshots/high_value_orders.png) |
+| Top Product by Category | ![top product](Screenshots/top_product_by_category.png) |
